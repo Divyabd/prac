@@ -8,6 +8,7 @@ public class One {
 		
 		System.out.println("Divya");
 		System.out.println("kousalya");
+		System.out.println("");
 	}
 
 }
